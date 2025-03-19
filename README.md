@@ -127,4 +127,4 @@ This project is for educational purposes. Please feel free to use and modify the
 
 ---
 
-Happy designing and good luck with the project!
+
