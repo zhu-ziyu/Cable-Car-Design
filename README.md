@@ -11,6 +11,12 @@ The final version is determined by numbers – the higher the number, the newer 
 
 ---
 
+
+## DR
+https://docs.google.com/document/d/1cQCYeWfgsGGdHgYkLYSboqoXo5m43t7FvCb4pFESDME/edit?tab=t.0
+---
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
