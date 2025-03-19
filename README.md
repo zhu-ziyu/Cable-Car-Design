@@ -1,7 +1,7 @@
 # Cable Car Design Project
 
 Welcome to the Cable Car Design Project repository! This project uses AutoDesk Inventor to design a cable car that travels along a 1/8-inch diameter steel cable at a speed of 7 ft/s. This project is part of our school assignment and will be completed in groups of two.
-
+The final version is determined by numbers – the higher the number, the newer the version.
 ---
 
 ## Team Members
